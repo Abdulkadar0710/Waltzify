@@ -1,0 +1,60 @@
+.image-container {
+    width: 100%;
+    max-width: 500px; /* Adjust max-width as needed */
+    max-height: 500px; /* Adjust max-height as needed */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.youtube-video-container iframe {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: contain; /* Ensures video containment */
+}
+
+
+.All-card{
+    width: 20vw;
+    height: 25rem;
+}
+
+@media (max-width:1200px) {
+    .All-card{
+        width: 18vw;
+    }
+    
+}
+@media (max-width:1060px) {
+    .All-card{
+        width: 19vw;
+    }
+}
+@media (max-width:1030px) {
+    .All-card{
+        width: 17vw;
+    }
+}
+
+@media (max-width:769px) {
+    .All-card{
+       height: 20rem;
+       height: 18rem;
+    }
+    
+}
+@media (max-width:1000px) {
+    .All-card{
+        width: 40vw;
+        height: 16rem;
+    }
+    
+}
+@media (max-width:400px) {
+    .All-card{
+        width: 47vw;
+    }
+    
+}

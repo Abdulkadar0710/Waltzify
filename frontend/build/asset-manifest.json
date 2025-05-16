@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dcc5df9.css",
+    "main.js": "/static/js/main.67d2499d.js",
+    "static/js/213.1276bd44.chunk.js": "/static/js/213.1276bd44.chunk.js",
+    "static/js/455.6832b94d.chunk.js": "/static/js/455.6832b94d.chunk.js",
+    "static/media/Aboutus1.png": "/static/media/Aboutus1.4fee640b01a85fd87827.png",
+    "static/media/Group_448.png": "/static/media/Group_448.4f89004cb0273b25b2e3.png",
+    "static/media/Aboutus2.jpeg": "/static/media/Aboutus2.e9a0195d29564e6a6f2e.jpeg",
+    "static/media/logo.png": "/static/media/logo.199f1c8c36bd658e67f2.png",
+    "static/media/Youtube.png": "/static/media/Youtube.06c3873468a010211ee0.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7dcc5df9.css.map": "/static/css/main.7dcc5df9.css.map",
+    "main.67d2499d.js.map": "/static/js/main.67d2499d.js.map",
+    "213.1276bd44.chunk.js.map": "/static/js/213.1276bd44.chunk.js.map",
+    "455.6832b94d.chunk.js.map": "/static/js/455.6832b94d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dcc5df9.css",
+    "static/js/main.67d2499d.js"
+  ]
+}

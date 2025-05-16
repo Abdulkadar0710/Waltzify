@@ -1,0 +1,84 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@blacklab/react-image-magnify": "^4.1.1",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@mui/icons-material": "^5.15.20",
+    "@mui/material": "^5.15.20",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "chart.js": "^4.4.4",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.13",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^11.17.0",
+    "fuse.js": "^7.0.0",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.2",
+    "jspdf": "^2.5.2",
+    "lucide-react": "^0.469.0",
+    "number-to-words": "^1.2.4",
+    "pdf-lib": "^1.17.1",
+    "rc-slider": "^10.6.2",
+    "react": "^18.3.1", 
+    "react-chartjs-2": "^5.2.0",
+    "react-datepicker": "^7.3.0",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-image-magnifiers": "^1.4.0",
+    "react-image-magnify": "^2.7.4",
+    "react-inner-image-zoom": "^3.0.2",
+    "react-magnifier": "^3.0.4",
+    "react-medium-image-zoom": "^5.2.13",
+    "react-modal": "^3.16.3",
+    "react-paginate": "^8.2.0",
+    "react-quick-pinch-zoom": "^5.1.0",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "react-zoom-pan-pinch": "^3.6.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.13",
+    "swiper": "^11.2.0",
+    "tailwind-merge": "^2.6.0",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "tailwindcss": "^3.4.3"
+  }
+}

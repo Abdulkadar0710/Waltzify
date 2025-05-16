@@ -1,0 +1,84 @@
+[01-Jan-2025 08:50:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzaan.sarovi@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php:52
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php on line 52
+[06-Jan-2025 08:14:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzaan.sarovi@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php:52
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php on line 52
+[06-Jan-2025 08:15:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzaan.sarovi@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php:52
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php on line 52
+[11-Jan-2025 12:59:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tthkhans@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php:52
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy\Backend\Database\UserSign.php on line 52
+[18-Mar-2025 08:13:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzankhan133@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php:52
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php on line 52
+[18-Mar-2025 08:22:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzankhan133@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php on line 51
+[18-Mar-2025 08:36:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php:24
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php(24): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'waltzer')
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php on line 24
+[22-Mar-2025 11:28:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php:24
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php(24): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'waltzer')
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php on line 24
+[22-Mar-2025 11:29:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ravinadarwai2002@gmail.com' for key 'email' in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_real\Backend\UserSign.php on line 51
+[05-Apr-2025 12:50:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Attempt to assign property "SMTPDebug" on null in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:47
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 47
+[05-Apr-2025 12:52:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzankhan133@gmail.com' for key 'email' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:55
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 55
+[05-Apr-2025 12:52:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'arzankhan133@gmail.com' for key 'email' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 51
+[05-Apr-2025 12:53:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ravinadarwai2002@gmail.com' for key 'email' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 51
+[25-Apr-2025 17:28:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'monukadar12345@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 51
+[26-Apr-2025 13:12:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'monukadar12345@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 51
+[26-Apr-2025 13:12:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'monukadar12345@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 51
+[01-May-2025 22:15:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'monukadar@gmail.com' for key 'email_2' in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php:51
+Stack trace:
+#0 C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\waltzify_copy_fake\Backend\UserSign.php on line 51

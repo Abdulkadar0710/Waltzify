@@ -1,0 +1,39 @@
+.hot-card{
+    width: 20vw;
+    height: 25rem;
+}
+
+@media (max-width:1200px) {
+    .hot-card{
+        width: 18vw;
+    }
+    
+}
+@media (max-width:1060px) {
+    .hot-card{
+        width: 17vw;
+    }
+}
+@media (max-width:1022px) {
+    .filter-out{
+        margin-top: 10rem;
+    }
+}
+@media (max-width:769px) {
+    .hot-card{
+       height: 20rem;
+    }
+    
+}
+@media (max-width:1000px) {
+    .hot-card{
+        width: 40vw;
+    }
+    
+}
+@media (max-width:400px) {
+    .hot-card{
+        width: 47vw;
+    }
+    
+}
