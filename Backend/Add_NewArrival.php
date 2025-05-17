@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['image'])) {
     $linkUrl = $_POST['linkUrl'] ?? '';
     $startDate = $_POST['startDate'] ?? '';
     $endDate   = $_POST['endDate'] ?? '';
-    $img = $_FILES['image']['name'] ?? '';
+    $img = $_FILES['image']['name'] ?? '';  
     $tmp = $_FILES['image']['tmp_name'] ?? '';
 
     $folder = $_SERVER['DOCUMENT_ROOT'].'NewArrival/';
