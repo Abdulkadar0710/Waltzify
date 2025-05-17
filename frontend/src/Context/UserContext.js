@@ -26,7 +26,7 @@ export const UserProvider = ({ children }) => {
             body: JSON.stringify({
                 userId: user.Id,
                 productId: product.Id,
-                quantity,
+                quantity, 
             }),
         })
         .then(response => response.text()) // Read response as text
