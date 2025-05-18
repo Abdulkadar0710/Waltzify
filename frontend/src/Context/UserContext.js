@@ -11,7 +11,6 @@ export const UserProvider = ({ children }) => {
     const [wishItems, setWishItems] = useState([]);
     const [quantities, setQuantities] = useState([]);
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
     const [cartDetails, setCartDetails] = useState({ quantities: [], totalPrice: 0 });
     const [avg,setAvg] = useState(0);
 
