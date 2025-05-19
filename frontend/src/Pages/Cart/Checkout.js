@@ -8,7 +8,7 @@ function Checkout() {
   const [quantities, setQuantities] = useState([]);
   const [count, setCount] = useState(1);
   const [cartItems, setCartItems] = useState([]);
-  const [loading, setLoading] = useState(true);
+  // const [loading, setLoading] = useState(true);
   const [msg, setMsg] = useState(null);
   const [error, setError] = useState(null);
   const [totalPrice, setTotalPrice] = useState(0);
